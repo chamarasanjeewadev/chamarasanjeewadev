@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Chamara!
 
 🚀 **Full-Stack & Mobile Developer | Tech Enthusiast**  
-🔹 Passionate about React Native, Next.js, NestJS & Cloud Computing  
+🔹 Passionate about React Native, React, NextJS, NodeJS, NestJS & Cloud Computing  
 🔹 Building efficient & scalable applications with modern technologies  
 🔹 Always learning and sharing knowledge
 
