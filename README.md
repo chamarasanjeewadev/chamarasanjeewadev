@@ -16,9 +16,9 @@
 ## 🔥 Featured Projects
 
 - [TowMyCar](https://towmycar.uk) – Car towing service connecting drivers & users
-- Baby-related app – Sinhala community-focused premium model
-- Verico Permitto – Geolocation tracking with offline support
-- Open-source contributions – React Native libraries
+- [Baby Journey](https://babyjourney.se/) – Second most popular pregnancy app in sweeden
+- [Esmartsystems](https://www.esmartsystems.com/)– Grid assert inspection in utility industry
+  
 
 ## 📫 Get in Touch
 
